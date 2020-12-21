@@ -3,3 +3,5 @@ Header always set Access-Control-Allow-Origin: "*"
 Header always set Access-Control-Allow-Methods: "GET"
 Header always set Access-Control-Allow-Headers: "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,C$
 Header always set Access-Control-Allow-Credentials true
+
+Options -Indexes
