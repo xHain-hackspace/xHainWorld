@@ -113,7 +113,7 @@
         {
          "columns":10,
          "firstgid":257,
-         "image":"..\/Code\/xHain\/xHainBasement\/xHain+basement_tiles.png",
+         "image":".\/xHain+basement_tiles.png",
          "imageheight":160,
          "imagewidth":320,
          "margin":0,
@@ -127,7 +127,7 @@
         {
          "columns":10,
          "firstgid":307,
-         "image":"..\/Code\/xHain\/xHainBasement\/xHain+Poster+deko.png",
+         "image":".\/xHain+Poster+deko.png",
          "imageheight":160,
          "imagewidth":320,
          "margin":0,
