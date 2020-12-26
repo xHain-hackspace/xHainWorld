@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#from_basement"
                 }],
          "type":"tilelayer",
          "visible":true,
