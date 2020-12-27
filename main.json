@@ -229,7 +229,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_xhain}"
+                 "value":"{<lobby>/maps/erfas-spaces-north.json#start_xhain}"
                 }],
          "type":"tilelayer",
          "visible":true,
